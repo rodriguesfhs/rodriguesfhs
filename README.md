@@ -1,6 +1,7 @@
 # Dr Fabio H. S. Rodrigues
-Scientist | Bioinformatician | Data Analyst
+Translational BioAI Research Scientist (ML) | Applied ML for Biological Discovery | Research Evaluation & Prioritisation
 Specialised at the intersection of Life Sciences, Bioinformatics and AI  
+
 ![Life Sciences](https://img.shields.io/badge/Life%20Sciences-2E8B57?style=for-the-badge)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-00BFFF?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-FFFF00?style=for-the-badge&logo=artificial-intelligence&logoColor=black)
@@ -8,12 +9,12 @@ Specialised at the intersection of Life Sciences, Bioinformatics and AI
 
 ## About Me
 
-Hi, I'm Fabio — a scientist and data analyst with a passion for solving problems at the intersection of life sciences, bioinformatics, and machine learning. Over the years, I've worked in both academia and industry, applying data-driven methods to understand biology, discover new molecules, and support drug development. Whether it's building a machine learning model or digging into complex datasets, I enjoy finding practical, creative solutions that can make a real difference. I'm always curious, always learning, and always excited about new challenges.
+Hi, I'm Fabio,  a scientist and data analyst with a passion for solving problems at the intersection of life sciences, bioinformatics, and machine learning. Over the years, I've worked in both academia and industry, applying data-driven methods to understand biology, discover new molecules, and support drug development. Whether it's building a machine learning model or digging into complex datasets, I enjoy finding practical, creative solutions that can make a real difference. I'm always curious, always learning, and always excited about new challenges.
 
 
 ## Current Projects
 
-* **University of Campinas (UNICAMP):** Collaborating on a project to develop an MLP classifier for predicting COVID-19 clinical status from NMR-derived biomarker data.
+* **University of Campinas (UNICAMP):** Visiting researcher on a project to develop an MLP classifier for predicting COVID-19 clinical status from NMR-derived biomarker data.
 (Repositories will be made public soon!)
 * **Cytecom / University of Warwick:** Utilizing Computer Vision (CNN) techniques to build an image focus classifier for quality control.
 * **Personal Project:** Iteratively developing a Python-based computational method to design a library of structurally-tailored aptamers for an innovative enzyme inhibition strategy.
