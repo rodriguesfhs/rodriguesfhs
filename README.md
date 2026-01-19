@@ -14,6 +14,7 @@ Hi, I'm Fabio,  a scientist and data analyst with a passion for solving problems
 
 ## Current Projects
 
+* **Strain Vaults Ltd:** At Strain Vaults, a UK biotech company developing a fully sequenced microbial biobank, I have worked on early-stage research evaluation and platform development, helping determine which biological functions and modelling approaches are worth pursuing. This work supported research prioritisation and partner-facing decisions across health, agriculture, sustainability, and industrial biotechnology.
 * **University of Campinas (UNICAMP):** Visiting researcher on a project to develop an MLP classifier for predicting COVID-19 clinical status from NMR-derived biomarker data.
 (Repositories will be made public soon!)
 * **Cytecom / University of Warwick:** Utilizing Computer Vision (CNN) techniques to build an image focus classifier for quality control.
