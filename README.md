@@ -9,7 +9,7 @@ Specialised at the intersection of Life Sciences, Bioinformatics and AI
 
 ## About Me
 
-Hi, I'm Fabio,  a scientist and data analyst with a passion for solving problems at the intersection of life sciences, bioinformatics, and machine learning. Over the years, I've worked in both academia and industry, applying data-driven methods to understand biology, discover new molecules, and support drug development. Whether it's building a machine learning model or digging into complex datasets, I enjoy finding practical, creative solutions that can make a real difference. I'm always curious, always learning, and always excited about new challenges.
+Hi, I’m Fabio. I’m an Applied ML Scientist and Bioinformatician in Life Sciences, working at the intersection of experimental biology, bioinformatics, and machine learning. My background spans academia, biotech, and translational research, and I enjoy building practical, data-driven solutions for messy biological problems where the data are imperfect and the real challenge is making the output genuinely useful. My work has included biological function prediction, natural product discovery, NMR-based disease classification, and microscopy imaging workflows. I like working across the full pipeline, from data curation and feature engineering to model development, validation, and turning results into something that can actually support R&D decisions. I’m curious by nature, enjoy learning fast, and like tackling problems where biology and computation genuinely need to inform each other.
 
 
 ## Current Projects
