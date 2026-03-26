@@ -13,7 +13,7 @@ Hi, I’m Fabio. I’m an Applied ML Scientist and Bioinformatician in Life Scie
 
 My work has included biological function prediction, natural product discovery, NMR-based disease classification, and microscopy imaging workflows. I like working across the full pipeline, from data curation and feature engineering to model development, validation, and translating results into something that can actually support R&D decisions. I’m curious by nature, enjoy learning quickly, and like tackling problems where biology and computation genuinely need to inform each other.
 
-## Interests
+## Focus Areas
 
 - Applied machine learning for life sciences
 - Bioinformatics and biological discovery
