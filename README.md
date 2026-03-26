@@ -4,8 +4,8 @@ Specialised at the intersection of Life Sciences, Bioinformatics and AI
 
 ![Life Sciences](https://img.shields.io/badge/Life%20Sciences-2E8B57?style=for-the-badge)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-00BFFF?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML-FFFFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=black)
-![AI](https://img.shields.io/badge/AI-FFFF00?style=for-the-badge&logo=artificial-intelligence&logoColor=black)
+![ML](https://img.shields.io/badge/ML-FFFF00?style=for-the-badge&logo=artificial-intelligence&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FFFFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=black)
 
 
 ## About Me
